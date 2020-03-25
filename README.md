@@ -2,9 +2,6 @@
 Operator is a program to help determine whether or not your surrounding conditions fit Apple's technical specifications for the selected device. This can be used to quickly determine whether or not it is safe to use your device in the current environment, according to Apple's specifications.
 ![Operator Logo](https://v0lttech.com/assets/img/operatorlogo.png)
 
-## License
-Licensed under the V0LT Source Code License: https://v0lttech.com/files/documents/licenses/VoltSourceCodeLicense.pdf
-
 ## Binaries
 A complied version can be downloaded at https://v0lttech.com/operator.php
 
